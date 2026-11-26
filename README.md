@@ -23,24 +23,24 @@
 Before using this program, make sure to update the repository `sudo apt update` and install git `sudo apt install git -y` to maximize the running of the program. I am not responsible for any consequences caused by this program. It is recommended to use this script when the new server is installed. This program has been tested on Ubuntu Server 24.04 and 26.04
 
 ```
-root@ubuntu:/home/ubuntu# git clone https://github.com/anggrdwjy/mikrotik-ubuntukvm.git
-Cloning into 'mikrotik-ubuntukvm'...
+root@ubuntu:/home/ubuntu# git clone https://github.com/anggrdwjy/MikrotikCHR-VPSUbuntuKVM.git
+Cloning into 'MikrotikCHR-VPSUbuntuKVM'...
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
 remote: Compressing objects: 100% (2/2), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 Receiving objects: 100% (3/3), done.
-root@ubuntu:/home/ubuntu# cd mikrotik-ubuntukvm/
-root@ubuntu:/home/ubuntu/mikrotik-ubuntukvm# chmod -R 777 *
-root@ubuntu:/home/ubuntu/mikrotik-ubuntukvm# ls -l
+root@ubuntu:/home/ubuntu# cd MikrotikCHR-VPSUbuntuKVM/
+root@ubuntu:/home/ubuntu/MikrotikCHR-VPSUbuntuKVM# chmod -R 777 *
+root@ubuntu:/home/ubuntu/MikrotikCHR-VPSUbuntuKVM# ls -l
 total 4
 -rwxrwxrwx 1 root root 1328 Jan  3 10:22 install-mikrotik-6.49.sh
-root@ubuntu:/home/ubuntu/mikrotik-ubuntukvm#
+root@ubuntu:/home/ubuntu/MikrotikCHR-VPSUbuntuKVM#
 ```
 
 #### NOTES: Please Check Your Disk Type Before Running Script
 ```
-root@ubuntu:/home/ubuntu/mikrotik-ubuntukvm# ./install-mikrotik-6.49.sh
+root@ubuntu:/home/ubuntu/MikrotikCHR-VPSUbuntuKVM# ./install-mikrotik-6.49.sh
 
 NAME   MAJ:MIN RM SIZE RO TYPE MOUNTPOINTS
 sda      8:0    0  30G  0 disk 
@@ -119,8 +119,10 @@ Broadcast message from root@ubuntu on pts/1 (Sat 2026-01-03 10:26:02 UTC):
 
 The system will reboot now!
 
-root@ubuntu:/home/ubuntu/mikrotik-ubuntukvm# 
+root@ubuntu:/home/ubuntu/MikrotikCHR-VPSUbuntuKVM# 
 ```
+
+Notes : Please Reboot After Setup
 
 #### Remote SSH or Telnet Your IP Address, Default Login MikroTik Username (Admin) Password (Blank)
 ```
