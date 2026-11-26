@@ -4,8 +4,8 @@
 </p>
 
 #### Features
-* Build MikroTik CHR x86 on Ubuntu Cloud Based Proxmox (VPS Proxmox Architecture)
-
+* Solution MikroTik CHR x86 on Cloud VPS - Special Case Ubuntu KVM Based Proxmox (VPS Proxmox Architecture)
+  
 #### Tested Version
 * Ubuntu 24.04 -> Mikrotik RoS 6.49.18
 * Ubuntu 26.04 -> Mikrotik RoS 7.21.x
