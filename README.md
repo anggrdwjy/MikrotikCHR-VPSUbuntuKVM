@@ -50,7 +50,7 @@ sudo apt update
 sudo apt install git -y
 ```
 
-### 1. Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/anggrdwjy/MikrotikCHR-VPSUbuntuKVM.git
@@ -66,7 +66,7 @@ total 4
 -rwxrwxrwx 1 root root 1328 Jan  3 10:22 install-mikrotik-6.49.sh
 ```
 
-### 2. Run Script
+### Run Script
 
 ```bash
 ./install-mikrotik-6.49.sh
