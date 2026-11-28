@@ -1,4 +1,4 @@
-## MikroTik CHR on Cloud VPS - Ubuntu KVM Based Proxmox
+# MikroTik CHR on Cloud VPS - Ubuntu KVM Based Proxmox
 
 <p align="center">
   <img src="banner.png" alt="MikroTik CHR on Cloud VPS">
