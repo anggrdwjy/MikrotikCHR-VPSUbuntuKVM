@@ -5,7 +5,7 @@
 </p>
 
 
-## Table of Contents
+### Table of Contents
 
 - [Features](#features)
 - [Tested Version](#tested-version)
@@ -18,18 +18,18 @@
 - [Bugs](#bugs)
 - [License](#license)
 
-## Features
+### Features
 
 * Solution MikroTik CHR x86 on Cloud VPS - Special Case Ubuntu KVM Based Proxmox (VPS Proxmox Architecture)
 
-## Tested Version
+### Tested Version
 
 | Ubuntu | MikroTik RoS |
 | --- | --- |
 | Ubuntu 24.04 | Mikrotik RoS 6.49.18 |
 | Ubuntu 26.04 | Mikrotik RoS 7.21.x |
 
-## Issue Bandwidth
+### Issue Bandwidth
 
 Check Your License MikroTik CHR x86
 
@@ -41,7 +41,7 @@ Check Your License MikroTik CHR x86
 | P10 Perpetual | Limit 10Gbit Upload per CHR Interface, Lifetime |
 | P-Unlimited | Unlimited Speed Upload per CHR Interface, Lifetime |
 
-## Installing Program
+### Installing Program
 
 Before using this program, make sure to update the repository `sudo apt update` and install git `sudo apt install git -y` to maximize the running of the program. I am not responsible for any consequences caused by this program. It is recommended to use this script when the new server is installed. This program has been tested on Ubuntu Server 24.04 and 26.04
 
@@ -72,7 +72,7 @@ total 4
 ./install-mikrotik-6.49.sh
 ```
 
-## NOTES: Please Check Your Disk Type Before Running Script
+### NOTES: Please Check Your Disk Type Before Running Script
 
 Check your disk type before running the script. Example output:
 
@@ -164,7 +164,7 @@ The system will reboot now!
 
 </details>
 
-## Notes : Please Reboot After Setup
+### Notes : Please Reboot After Setup
 
 Please reboot after setup is finished.
 
@@ -172,7 +172,7 @@ Please reboot after setup is finished.
 reboot
 ```
 
-## Remote SSH or Telnet Your IP Address, Default Login MikroTik Username (Admin) Password (Blank)
+### Remote SSH or Telnet Your IP Address, Default Login MikroTik Username (Admin) Password (Blank)
 
 Remote SSH or Telnet your IP Address after reboot. Default Login MikroTik Username (Admin) Password (Blank).
 
@@ -203,19 +203,19 @@ new password>
 [admin@MikroTik] > 
 ```
 
-## Support
+### Support
 
 * [:octocat: Follow me on GitHub](https://github.com/anggrdwjy)
 * [🔔 Subscribe me on Youtube](https://www.youtube.com/@anggarda.wijaya)
 
-## Bugs
+### Bugs
 
 Please open an issue on GitHub with as much information as possible if you found a bug.
 * Your KVM or VPS
 * All the logs and message outputted
 * etc
 
-## License
+### License
 
 This project is licensed under the **MIT License** — it is free to use, modify, and distribute, including for commercial purposes, as long as you include the copyright notice and this license.
 
