@@ -6,8 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MikroTik-RouterOS_6.49%2B-E4002B?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS">
+  <img src="https://img.shields.io/badge/MikroTik-RouterOS_7%2B-E4002B?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik RouterOS">
   <img src="https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox VE">
-  <img src="https://img.shields.io/badge/Ubuntu-22.04%2B-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-24.04%2B-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-26.04%2B-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </p>
 
 ## Table of Contents
